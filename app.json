@@ -1,0 +1,15 @@
+{
+  "name": "thirdcircle-www",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
