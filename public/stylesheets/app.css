@@ -21,3 +21,7 @@ body {
 .title {
   font-size: 7.5vw;
 }
+
+.content > .logo {
+  height: 20%;
+}
